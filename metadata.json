@@ -1,0 +1,5 @@
+{
+  "name": "VizAssistant",
+  "description": "A modern, colorful dashboard for intelligent data visualization and chart detection using Gemini and R/Python logic simulation.",
+  "requestFramePermissions": []
+}
